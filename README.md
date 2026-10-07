@@ -8,6 +8,8 @@ The analysis follows an end-to-end data analytics workflow, including data valid
 
 The goal is to transform raw transactional data into meaningful insights that can support data-driven business decisions.
 
+![Tableau Dashboard](tableau_dashboard.png)
+
 ## Tools & Technologies
 
 - **SQL:** PostgreSQL
